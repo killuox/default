@@ -1,0 +1,21 @@
+{
+  "name": "default",
+  "displayName": "svelte-5-theme",
+  "description": "This is the svelte 5 inspired theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Svelte 5 theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Svelte 5 theme-color-theme.json"
+      }
+    ]
+  }
+}
