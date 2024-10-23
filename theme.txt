@@ -5,7 +5,7 @@ background-foreground=#2f333f
 background-light=#e5ecff
 background-light-paragraph=#e5ecffbb
 
-primary=#ffab77 // #ffbc92
+primary=#ffbc92
 primary-light=#ffc7a5
 primary-dark=#ff7824
 primary-light-paragraph=#ff9e61c3
@@ -35,11 +35,10 @@ editor.comments=#7f848e
 after
 editor.foreground=#e5ecffbb
 editor.variable=#e5ecff
-editor.keywords=#3b9aff
+editor.keywords=#61afef
 editor.numbers=#ff7824
-editor.constants=#ffc7a5 // #ffdba5
+editor.constants=#ffdba5
 editor.functions=#ffab77
 editor.string=#ffe0af
 editor.operators=#63afff
 editor.comments=#e5ecffbb
-//#ffdba5
