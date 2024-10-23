@@ -1,7 +1,7 @@
 {
-	"name": "Tokyo Night Storm",
-	"author": "Enkia",
-	"maintainers": ["Enkia <enki77@gmail.com>"],
+	"name": "Svelte 5 theme",
+	"author": "Killuox",
+	"maintainers": ["Killuox"],
 	"type": "dark",
 	"semanticTokenColors": {
 		"parameter.declaration": {
@@ -29,7 +29,7 @@
 			"foreground": "#e5ecff"
 		}
 	},
-	"semanticClass": "tokyo-night-storm",
+	"semanticClass": "svelte-5-theme",
 	"colors": {
 	"foreground": "#2f333f",
     "focusBorder": "#00000000",
