@@ -1,6 +1,7 @@
 {
   "name": "default",
-  "displayName": "svelte-5-theme",
+  "displayName": "Svelte 5 theme",
+  "publisher": "killuox",
   "description": "This is the svelte 5 inspired theme",
   "version": "0.0.1",
   "engines": {
