@@ -1,7 +1,7 @@
 background=#21242c
 background-dark=#1a1d23
 background-black=#0d0f15
-background-foreground=#2f333f
+background-foreground=#bfc6d4
 background-light=#e5ecff
 background-light-paragraph=#e5ecffbb
 
