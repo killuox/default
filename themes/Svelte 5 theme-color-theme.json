@@ -31,7 +31,7 @@
 	},
 	"semanticClass": "svelte-5-theme",
 	"colors": {
-	"foreground": "#2f333f",
+	"foreground": "#acb0bb",
     "focusBorder": "#00000000",
     "selection.background": "#ee905485",
     "scrollbar.shadow": "#1a1d23",
@@ -159,7 +159,7 @@
     "badge.background": "#ff7824",
     "badge.foreground": "#e5ecff",
     "terminal.foreground": "#e5ecff",
-    "terminal.selectionBackground": "#e5ecff12",
+    "terminal.selectionBackground": "#2a62ff33",
     "terminalCursor.background": "#ff9e61c3",
     "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#2f333f",
